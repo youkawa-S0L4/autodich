@@ -1,4 +1,4 @@
-# 🚀 Auto Dịch Thuật Truyện — Gemini AI
+# 🚀 Auto Dịch Thuật Truyện
 
 > Công cụ dịch thuật tự động cho truyện light novel / web novel  
 > Hỗ trợ: 🇨🇳 Trung · 🇯🇵 Nhật · 🇰🇷 Hàn · 🇬🇧 Anh → 🇻🇳 Việt
@@ -212,5 +212,5 @@ MIT License — Tự do sử dụng, chỉnh sửa, chia sẻ.
 ---
 
 <div align="center">
-Made with ❤️ · Powered by Gemini AI · Run on Google Colab
+Made with ❤️ · Powered by sola
 </div>
